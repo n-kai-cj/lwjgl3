@@ -1,0 +1,167 @@
+.root{
+    -fx-font-size: 16pt;
+    -fx-font-family: "YuGothic UI";
+    /* -fx-base: rgb(132, 145, 47); */
+    /* -fx-background: rgb(225, 228, 203); */
+}
+
+.button {
+    -fx-font-size: 30pt;
+}
+
+#a_button {
+    -fx-text-fill: #3cb371;
+    -fx-background-color: #faebd7;
+}
+#a_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #3cb371;
+}
+
+#b_button {
+    -fx-text-fill: #b22222;
+    -fx-background-color: #faebd7;
+}
+#b_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #b22222;
+}
+
+#x_button {
+    -fx-text-fill: #1e90ff;
+    -fx-background-color: #faebd7;
+}
+#x_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #1e90ff;
+}
+
+#y_button {
+    -fx-text-fill: #ffd700;
+    -fx-background-color: #faebd7;
+}
+#y_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #ffd700;
+}
+
+#l1_button {
+    -fx-text-fill: #404040;
+    -fx-background-color: #faebd7;
+}
+#l1_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #404040;
+}
+
+#r1_button {
+    -fx-text-fill: #404040;
+    -fx-background-color: #faebd7;
+}
+#r1_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #404040;
+}
+
+#select_button {
+    -fx-font-size: 14pt;
+    -fx-text-fill: #404040;
+    -fx-background-color: #faebd7;
+}
+#select_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #404040;
+}
+
+#start_button {
+    -fx-font-size: 14pt;
+    -fx-text-fill: #404040;
+    -fx-background-color: #faebd7;
+}
+#start_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #404040;
+}
+
+#up_button {
+    -fx-text-fill: #404040;
+    -fx-background-color: #faebd7;
+}
+#up_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #404040;
+}
+
+#right_button {
+    -fx-text-fill: #404040;
+    -fx-background-color: #faebd7;
+}
+#right_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #404040;
+}
+
+#down_button {
+    -fx-text-fill: #404040;
+    -fx-background-color: #faebd7;
+}
+#down_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #404040;
+}
+
+#left_button {
+    -fx-text-fill: #404040;
+    -fx-background-color: #faebd7;
+}
+#left_button:pressed {
+    -fx-text-fill: #faebd7;
+    -fx-background-color:  #404040;
+}
+
+#left_circle {
+    -fx-fill: #faebd7;
+    -fx-stroke:  #000080;
+    -fx-stroke-width: 3;
+    -fx-scale-x: 0.8;
+    -fx-scale-y: 0.8;
+}
+#left_stick {
+    -fx-fill: #000080;
+    -fx-stroke: #f0f8ff;
+    -fx-scale-x: 0.3;
+    -fx-scale-y: 0.3;
+}
+
+#right_circle {
+    -fx-fill: #faebd7;
+    -fx-stroke:  #000080;
+    -fx-stroke-width: 3;
+    -fx-scale-x: 0.8;
+    -fx-scale-y: 0.8;
+}
+#right_stick {
+    -fx-fill: #000080;
+    -fx-stroke: #f0f8ff;
+    -fx-scale-x: 0.3;
+    -fx-scale-y: 0.3;
+}
+
+#l2_rectangle {
+    -fx-fill:  #faebd7;
+    -fx-stroke: #000080;
+}
+#l2_stick {
+    -fx-fill: #000080;
+    -fx-stroke: #f0f8ff;
+}
+
+#r2_rectangle {
+    -fx-fill:  #faebd7;
+    -fx-stroke: #000080;
+}
+#r2_stick {
+    -fx-fill: #000080;
+    -fx-stroke: #f0f8ff;
+}
+
